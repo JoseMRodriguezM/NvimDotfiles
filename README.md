@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/6819687e-a31a-487d-8bc7-dda05e91cbc4">
+  <img src="https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/9f2f6ac1-3e95-4122-8314-bdfae2dabed7">
 </div>
 
-This configuration is based on [💤 lazy.nvim](https://github.com/folke/lazy.nvim), modified with the aim of maximizing efficiency when programming and obtaining a minimalistic configuration that allows you to be productive.
+This configuration is my own configuratión is made with the aim of maximizing efficiency when programming and obtaining a minimalistic and fast configuration that allows you to be productive.
 
-![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/3374d559-f48e-451b-bac6-db09ad491398)
+![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/95efaf4b-b622-4d75-bc2f-dd2eace3cc19)
 
-![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/3082ba00-c997-406d-9095-d50badd5575d)
+![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/d919b87c-26fc-4c72-9aaf-f5851822b76b)
 
-![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/6b4d9fbf-c3ee-4b85-a4e9-7d24b155085c)
+![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/243c07a1-cd3d-4001-97ad-c740abb81061)
+
 
 
 ## ⚡️ Requirements
