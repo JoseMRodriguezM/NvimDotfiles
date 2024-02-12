@@ -58,17 +58,13 @@ This configuration is my own configuratión is made with the aim of maximizing e
 ## 📂 File Structure
 
 <pre>
-~/.config/nvim
+C:\Users\user\AppData\Local\nvim
 ├── lua
 │   ├── config
-│   │   ├── autocmds.lua
 │   │   ├── keymaps.lua
-│   │   ├── lazy.lua
 │   │   └── options.lua
 │   └── plugins
-│       ├── spec1.lua
-│       ├── **
-│       └── spec2.lua
+│       |── All the plugins installed and their configurations
 └── init.lua
 </pre>
 
