@@ -2,7 +2,7 @@
   <img src="https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/9f2f6ac1-3e95-4122-8314-bdfae2dabed7">
 </div>
 
-This configuration is my own configuratión is made with the aim of maximizing efficiency when programming and obtaining a minimalistic and fast configuration that allows you to be productive.
+Personal neovim dotsfile, made with the aim of maximizing efficiency when programming and obtaining a minimalistic and fast configuration that allows you to be productive.
 
 ![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/95efaf4b-b622-4d75-bc2f-dd2eace3cc19)
 
